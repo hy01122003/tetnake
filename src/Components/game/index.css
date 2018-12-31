@@ -1,0 +1,17 @@
+.gameScreen {
+	border: solid 1px #b3b3b3;
+	margin: 0px auto;
+	/* margin-top: 25px; */
+	background-color: #ffffff;
+	box-shadow: 2px 2px 10px 5px #b3b3b3b6;
+	transition: 0.7s;
+}
+
+.danger {
+	background-color: #ff4d4d!important;
+	border: solid 3px #bbbbbb;
+}
+
+.score {
+	font-weight: bold;
+}
